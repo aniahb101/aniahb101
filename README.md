@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aniah Brown</h1>
 <h3 align="center">A passionate frontend developer from Baltimore, Maryland and my journey in the world of web development is driven by an insatiable curiosity and a commitment to mastering the latest technologies. Right now i am in a bootcamp called TripleTen, I have enrolled in 2023 november and i am still currently learning and doing projects. I love to craft user-friendly experiences by making responsive and visually appealing websites. I am excited to collaborate with other professionals, leveraging my skills to contribute to projects while further honing my craft. My goal is to not only meet but exceed the expectations of clients and users, leaving a lasting impact through my work as I progress in my career as a frontend developer.</h3>
 
-- 🔭 I’m currently working on [what to wear]([https://github.com/aniahb101/se_project_react])
+- 🔭 I’m currently working on [what to wear](https://github.com/aniahb101/se_project_react)
 
 - 🌱 I’m currently learning **React js**
 
