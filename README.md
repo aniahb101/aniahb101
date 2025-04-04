@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [news explorer]([https://github.com/aniahb101/se_project_react](https://github.com/aniahb101/news-explorer-frontend/tree/stage-1/src))
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **typescript and python**
 
-- 📫 How to reach me **aniah.brown01@gmail.com**
+- 📫 How to reach me **aniah6767@gmail.com**
 
 - ⚡ Fun fact **I like to dance and sing**
 
